@@ -1,5 +1,5 @@
-# dataquest-guided-projects
-Solutions to self guided projects on the dataquest.io website
+# dataquest-projects
+Solutions to projects on the dataquest.io website
 
 <ul>
 <li><a href="USBirths.ipynb">Guided Project: Explore U.S. Births</a></li>
