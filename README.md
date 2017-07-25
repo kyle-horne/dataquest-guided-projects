@@ -2,7 +2,7 @@
 Solutions to Plus projects on the dataquest.io website
 
 <ul>
-<li>Analyzing Super Bowl Winners</li>
+<li><a href="SuperBowl.ipynb">Analyzing Super Bowl Winners</a></li>
 </ul>
 
 Solutions to regular projects on the dataquest.io website
