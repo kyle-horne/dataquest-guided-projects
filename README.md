@@ -1,7 +1,13 @@
 # dataquest-projects
-Solutions to projects on the dataquest.io website
+Solutions to Plus projects on the dataquest.io website
 
 <ul>
-<li><a href="USBirths.ipynb">Guided Project: Explore U.S. Births</a></li>
-<li><a href="USGunDeaths.ipynb">Guided Project: Explore Gun Deaths in the U.S.</a></li>
+<li>Analyzing Super Bowl Winners</li>
+</ul>
+
+Solutions to regular projects on the dataquest.io website
+
+<ul>
+<li><a href="USBirths.ipynb">Explore U.S. Births</a></li>
+<li><a href="USGunDeaths.ipynb">Explore Gun Deaths in the U.S.</a></li>
 </ul>
